@@ -35,9 +35,7 @@ if __name__ == '__main__':
         goal.pose.orientation.z = 0
         goal.pose.orientation.w = 1
         
-        # first goal
-        rospy.loginfo("Goal1 is executing")
-        
+        # first goal       
         goal.pose.position.x = 3
         goal.pose.position.y = 8
         
@@ -46,8 +44,6 @@ if __name__ == '__main__':
             rospy.loginfo("Goal1 execution done!")
         
         # second goal
-        rospy.loginfo("Goal1 is executing")
-        
         goal.pose.position.x = 10
         goal.pose.position.y = 10
         

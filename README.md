@@ -7,9 +7,10 @@ AMCL paketinde "initial_pose=(10,10)" verilmiş ve (3,8) noktasında gidip geri 
 ```bash
 cd ~/
 git clone https://github.com/Mky07/test_ws.git
-cd ~/test_ws/src
+cd ~/test_ws/
 rosdep install --from-paths src --ignore-src -r -y # install needed dependency
 source /opt/ros/melodic/setup.bash
+cd src/
 catkin_init_workspace
 cd ..
 catkin_make

@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/patika/ptk_ros/devel/include",
+                "/opt/ros/kinetic/include",
+                "/home/patika/ptk_ros/src/realsense/ddynamic_reconfigure/include",
+                "/home/patika/ptk_ros/src/mavros/libmavconn/include",
+                "/home/patika/ptk_ros/src/mavros/mavros/include",
+                "/home/patika/ptk_ros/src/mavros/mavros_msgs/include",
+                "/home/patika/ptk_ros/src/opencv/o1/include",
+                "/home/patika/ptk_ros/src/hardware/ptk_1000_driver/include",
+                "/home/patika/ptk_ros/src/ar_tag/ptk_ar/include",
+                "/home/patika/ptk_ros/src/mapping/ptk_cartographer/include",
+                "/home/patika/ptk_ros/src/management/ptk_fleet/include",
+                "/home/patika/ptk_ros/src/hardware/ptk_intel/include",
+                "/home/patika/ptk_ros/src/management/ptk_manager/include",
+                "/home/patika/ptk_ros/src/odometry/ptk_pixhawk/include",
+                "/home/patika/ptk_ros/src/communication/ptk_sql/include",
+                "/home/patika/ptk_ros/src/navigation/ptk_tb/include",
+                "/home/patika/ptk_ros/src/communication/ptk_ulak/include",
+                "/home/patika/ptk_ros/src/realsense/realsense2_camera/include",
+                "/home/patika/ptk_ros/src/3rd_party/roboteq/roboteq_driver/include",
+                "/home/patika/ptk_ros/src/mavros/test_mavros/include",
+                "/usr/include"
+            ],
+            "name": "Linux",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

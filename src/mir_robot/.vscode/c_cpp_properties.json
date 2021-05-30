@@ -1,0 +1,40 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/muharrem/test_ws/devel/include/**",
+        "/home/muharrem/catkin_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/muharrem/catkin_ws/src/circle_planner/include/**",
+        "/home/muharrem/catkin_ws/src/ddynamic_reconfigure/include/**",
+        "/home/muharrem/catkin_ws/src/euclid_planner/euclid_planner/include/**",
+        "/home/muharrem/catkin_ws/src/frontier_exploration/include/**",
+        "/home/muharrem/catkin_ws/src/frontier_img/include/**",
+        "/home/muharrem/catkin_ws/src/full_coverage_path_planner/include/**",
+        "/home/muharrem/catkin_ws/src/husky/husky_base/include/**",
+        "/home/muharrem/catkin_ws/src/image_matching/include/**",
+        "/home/muharrem/catkin_ws/src/LMS1xx/include/**",
+        "/home/muharrem/catkin_ws/src/map_merging/include/**",
+        "/home/muharrem/test_ws/src/mir_robot/mir_dwb_critics/include/**",
+        "/home/muharrem/catkin_ws/src/multiple_robot_map_merger/include/**",
+        "/home/muharrem/catkin_ws/src/octomap_rrt_global_planner/include/**",
+        "/home/muharrem/catkin_ws/src/opencv_based_frontier_explorer/include/**",
+        "/home/muharrem/catkin_ws/src/proje_test/include/**",
+        "/home/muharrem/catkin_ws/src/pure_pursuit_lokal_planner/include/**",
+        "/home/muharrem/catkin_ws/src/realsense-ros/realsense2_camera/include/**",
+        "/home/muharrem/catkin_ws/src/rough_indoor_frontier_exploration/include/**",
+        "/home/muharrem/catkin_ws/src/three_d_frontier_explorer/include/**",
+        "/home/muharrem/catkin_ws/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+        "/home/muharrem/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/home/muharrem/catkin_ws/src/turtlebot3/turtlebot3_slam/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}

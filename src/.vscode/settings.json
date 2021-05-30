@@ -1,0 +1,23 @@
+{
+    "ros.distro": "kinetic",
+    "python.autoComplete.extraPaths": [
+        "/home/patika/ptk_ros/devel/lib/python2.7/dist-packages",
+        "/opt/ros/kinetic/lib/python2.7/dist-packages"
+    ],
+    "files.associations": {
+        "cmath": "cpp",
+        "iostream": "cpp",
+        "iosfwd": "cpp",
+        "fstream": "cpp",
+        "*.ipp": "cpp",
+        "thread": "cpp",
+        "functional": "cpp",
+        "array": "cpp",
+        "*.tcc": "cpp",
+        "future": "cpp",
+        "istream": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp",
+        "ostream": "cpp"
+    }
+}
